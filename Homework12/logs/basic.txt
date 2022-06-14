@@ -1,0 +1,15 @@
+Application is starting
+Application is starting
+Application starts
+Application starts
+Application starts
+2022-06-14 15:15:49,583 : Application starts
+2022-06-14 15:16:58,121 : Application starts
+2022-06-14 15:17:53,360 : Application starts
+2022-06-14 15:17:53,857 : Application starts
+2022-06-14 15:17:58,607 : Searching kot
+2022-06-14 15:23:44,973 : Application starts
+2022-06-14 15:23:45,334 : Application starts
+2022-06-14 15:23:59,623 : Format of the image is not supported
+2022-06-14 15:28:58,686 : Application starts
+2022-06-14 15:28:59,104 : Application starts
